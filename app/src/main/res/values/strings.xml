@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">qiniu-mob-demo</string>
+    <string name="choose_file">choose_file</string>
+    <string name="internal_storage">internal_storage</string>
+</resources>
